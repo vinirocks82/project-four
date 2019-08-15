@@ -5,34 +5,34 @@
   "active": true,
   "topDeals": [
     {
-      "name": "pork scented perfume",
-      "price": 8.00,
-      "description": "Smell pork all day.",
+      "name": "Bread Shaped Pillow",
+      "price": 25.00,
+      "description": "Satisfy your craving!.",
       "features": [
-        "smells like pork",
-        "extra manly"
+        "3-D Realistic",
+        "Acts like a normal Pillow"
       ],
-      "image": "bacon-scented-mustache.jpg"
+      "image": "breadpillow.png"
     },
     {
-      "name": "Triple weed burger",
-      "price": 11.95,
-      "description": "Take your look to the next level with this amazing & dill-icious lip balm",
+      "name": "Triple falvour Pattie Burger",
+      "price": 18.95,
+      "description": " Now Choose your 3 flavours on a huge three pattie burger! ",
       "features": [
-        "dill-icious",
-        "beautiful green colour"
+        "A new taste variety",
+        "A perfect meal to stand a busy day!"
       ],
-      "image": "dill-pickle-lip-balm.jpg"
+      "image": "burger.jpg"
     },
     {
-      "name": "Dancing with cats",
+      "name": "Pimple Popping Toy",
       "price": 13.22,
-      "description": "Learn intrepetive dance with your feline friend!",
+      "description": "Intresting new stress reliever!",
       "features": [
-        "all the latest dance moves",
-        "truly bond with your cat through dance"
+        "squeezable toy that mimics popping zits",
+        "refilliable puss that bursts when sqeezed"
       ],
-      "image": "dancing-with-cats.jpg"
+      "image": "toy.png"
     }
   ]
 }
