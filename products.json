@@ -1,0 +1,38 @@
+{
+  "companyName": "Weird Deals INC.",
+  "headOffice": "Barrie, Ontario",
+  "established": 2001,
+  "active": true,
+  "topDeals": [
+    {
+      "name": "Bread Shaped Pillow",
+      "price": 25.00,
+      "description": "Satisfy your craving!.",
+      "features": [
+        "3-D Realistic",
+        "Acts like a normal Pillow"
+      ],
+      "image": "breadpillow.png"
+    },
+    {
+      "name": "Triple falvour Pattie Burger",
+      "price": 18.95,
+      "description": " Now Choose your 3 flavours on a huge three pattie burger! ",
+      "features": [
+        "A new taste variety",
+        "A perfect meal to stand a busy day!"
+      ],
+      "image": "burger.jpg"
+    },
+    {
+      "name": "Pimple Popping Toy",
+      "price": 13.22,
+      "description": "Intresting new stress reliever!",
+      "features": [
+        "squeezable toy that mimics popping zits",
+        "refilliable puss that bursts when sqeezed"
+      ],
+      "image": "toy.png"
+    }
+  ]
+}
